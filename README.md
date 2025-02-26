@@ -9,3 +9,4 @@ Weed detection using YOLOv8
 Color detection for distinguishing vegetables and various field objects like stones and debris
 
 All models were trained on my own datasets, which were not sourced from Kaggle or GitHub. 
+Don't forget to change your code while uploading files, I have MACos.  
